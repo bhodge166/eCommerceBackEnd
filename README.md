@@ -25,9 +25,7 @@ To install necessary dependencies, run the following command: npm i
 
 ## Usage
 
-Please see video of deployed app below:
-
-Please see the video link below:
+Please see the video link below: <br />
 [Video](https://drive.google.com/file/d/1TmXFhvRa2aqFCKMVsiTz3sU8QNS2QCAf/view)
 
 ## Contributing
